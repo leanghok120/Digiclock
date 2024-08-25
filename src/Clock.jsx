@@ -27,7 +27,7 @@ function Clock() {
 
   return (
     <div className="mt-8">
-      <h2 className="text-center text-8xl font-black tracking-wider">
+      <h2 className="text-center text-9xl font-black tracking-wider">
         {formatTime()}
       </h2>
     </div>
