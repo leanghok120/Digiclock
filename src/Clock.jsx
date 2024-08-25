@@ -22,7 +22,7 @@ function Clock() {
   }
 
   function addZero(num) {
-    return (num < 12 ? "0" : "") + num;
+    return (num < 10 ? "0" : "") + num;
   }
 
   return (
