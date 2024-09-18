@@ -3,7 +3,7 @@ import Clock from "./Clock";
 function App() {
   return (
     <div
-      className={`flex flex-col justify-center items-center h-screen bg-[url(/src/assets/background1.jpg)] bg-fixed bg-no-repeat bg-cover bg-center bg-white`}
+      className={`flex flex-col justify-center items-center h-screen bg-[url(/src/assets/background1.webp)] bg-fixed bg-no-repeat bg-cover bg-center bg-white`}
     >
       <Clock />
     </div>
